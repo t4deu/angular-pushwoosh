@@ -1,6 +1,6 @@
 (function(angular) {
   'use strict';
-  angular.module('pushwooshNotification', [])
+  angular.module('angular-pushwoosh', [])
   .provider('$pushNotification', function() {
     var settings = {
       appId: null,
