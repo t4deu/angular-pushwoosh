@@ -1,12 +1,28 @@
 {
-    "name": "Angular PushWosh",
-    "version": "1.0.0",
-    "main": "dist/angular-pushwoosh.js",
-    "ignore": [
-        "src",
-        ".gitignore",
-        "bower.json",
-        "LICENSE",
-        "README.md"
-    ]
+  "name": "Angular PushWosh",
+  "version": "1.0.0",
+  "main": "dist/angular-pushwoosh.js",
+  "ignore": [
+    "src",
+    ".gitignore",
+    "bower.json",
+    "LICENSE",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/t4deu/angular-pushwoosh",
+  "authors": [
+    "Tadeu Valentt <tadeu.valentt@gmail.com>"
+  ],
+  "description": "Pushwoosh integration module",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "pushwoosh"
+  ],
+  "license": "MIT"
 }
