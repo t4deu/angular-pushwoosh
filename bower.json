@@ -1,0 +1,12 @@
+{
+    "name": Angular PushWosh",
+    "version": "0.0.2",
+    "main": "dist/angular-pushwoosh.js",
+    "ignore": [
+        "src",
+        ".gitignore",
+        "bower.json",
+        "LICENSE",
+        "README.md"
+    ]
+}
